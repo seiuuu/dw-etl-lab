@@ -1,0 +1,6 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-1009,2026-10-05,S004,Ate Rosa Mini Mart,Brgy. Poblacion,Makati,P001,Instant pancit canton,Noodles,6,16.00
+ORD-1009,2026-10-05,S004,Ate Rosa Mini Mart,Brgy. Poblacion,Makati,P002,3-in-1 coffee sachet,Beverages,4,9.00
+ORD-1010,2026-10-05,S004, Ate Rosa Mini Mart ,Brgy. Poblacion,Makati,P003,Canned sardines 155g,canned goods ,3,25.00
+ORD-1010,2026-10-05,S004,Ate Rosa Mini Mart,Brgy. Poblacion,Makati,P005,Rice 1kg,Grains,,52.00
+ORD-1011,2026-10-05,S004,Ate Rosa Mini Mart,Brgy. Poblacion,Makati,P003,Canned sardines 155g,Canned Goods,2,25.00
